@@ -1,0 +1,82 @@
+# VS Code settings
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data Files
+*.csv
+*.tsv
+*.dat
+*.log
+*.db
+*.sqlite
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.joblib
+
+# Models
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.pt
+*.pth
+*.onnx
+
+# Environment Files
+.env
+*.yaml
+*.yml
+Pipfile.lock
+
+# Compiled Notebooks
+*.nbconvert.ipynb
+
+# Mac OS
+.DS_Store
+
+# Backup Files
+*~
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Jupyter Runtime Files
+.jupyter/
+
+# Cache
+.cache/
+__pycache__/
+
+# Logs
+*.log
+
+# TensorBoard Logs
+logs/
+
+# Checkpoints
+checkpoints/
+
+# Google Colab
+*.ipynb_checkpoints/
+
+# Others
+.idea/
+*.swp
+*checkpoint.ipynb
